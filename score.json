@@ -1,0 +1,18 @@
+{
+    "cooperate_cooperate": {
+        "player1": 2,
+        "player2": 2
+    },
+    "cooperate_cheat":{
+        "player1": -1,
+        "player2": 3
+    },
+    "cheat_cooperate":{
+        "player1": 3,
+        "player2": -1
+    },
+    "cheat_cheat": {
+        "player1": 0,
+        "player2": 0
+    }
+}
